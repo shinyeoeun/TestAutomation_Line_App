@@ -1,0 +1,1 @@
+PRESIGNED-TEXT-06 detail text downloaded from github raw URL
